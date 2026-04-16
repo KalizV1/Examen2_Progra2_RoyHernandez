@@ -1,0 +1,1 @@
+Registro de salida y cálculo de cobro implementado
